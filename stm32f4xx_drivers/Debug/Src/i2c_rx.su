@@ -1,0 +1,5 @@
+../Src/i2c_rx.c:40:6:delay	16	static
+../Src/i2c_rx.c:44:6:I2C1_GPIO_Inits	24	static
+../Src/i2c_rx.c:60:6:GPIO_ButtonInit	24	static
+../Src/i2c_rx.c:70:6:I2C1Inits	8	static
+../Src/i2c_rx.c:81:5:main	24	static
